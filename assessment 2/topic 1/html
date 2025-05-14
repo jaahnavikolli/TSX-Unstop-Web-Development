@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Topic 1 - Hello World</title>
+  <link rel="stylesheet" href="css">
+  <script>
+    window.onload = function() {
+      console.log("Hello from JavaScript!");
+    };
+  </script>
+</head>
+<body>
+
+  <h1>Welcome to Topic 1</h1>
+  <p>This is a paragraph demonstrating basic HTML and CSS.</p>
+  <button>Click Me</button>
+
+</body>
+</html>

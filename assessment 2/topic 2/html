@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Topic 2 - Layout and Semantics</title>
+  <link rel="stylesheet" href="css">
+</head>
+<body>
+
+  <header>
+    <h1>My Website</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <h2>About This Page</h2>
+      <p>This article describes how we use semantic HTML5 and CSS layouts.</p>
+      <p>It's styled using basic CSS properties like padding and margin.</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 My Simple Site</p>
+  </footer>
+
+</body>
+</html>
